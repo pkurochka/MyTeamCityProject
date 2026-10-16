@@ -13,6 +13,8 @@ namespace MyTeamCityProject
         {
 
             Console.WriteLine("Hello, TeamCity!");
+            Console.WriteLine("Ready to work!");
+            
 
         }
 
